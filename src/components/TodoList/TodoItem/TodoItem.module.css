@@ -1,0 +1,25 @@
+.todo_item_conainer {
+  background-color: #f2f2f2;
+  margin-block: 15px;
+  width: 100%;
+  padding-block: 25px;
+  padding-inline: 20px;
+}
+
+.todo_item_title {
+  font-size: 25px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-block: 15px;
+}
+
+.todo_item_description {
+  font-size: 15px;
+  margin-block: 15px;
+}
+
+.todo_item_button_conainer {
+  display: flex;
+  justify-content: right;
+  gap: 5px;
+}
